@@ -61,8 +61,16 @@ My goal is simple: **build products that solve real problems in my community** a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=biniyam-rgb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0077B6&border_radius=10" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniyam-rgb&layout=compact&langs_count=8&theme=tokyonight&border_color=0077B6&border_radius=10" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=biniyam-rgb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=0077B6&border_radius=10" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniyam-rgb&layout=compact&langs_count=8&theme=tokyonight&border_color=0077B6&border_radius=10" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
